@@ -1,5 +1,5 @@
 # Realtime-Emotion-Detection-and-Visulization
-For SGP of SEM-07
+
 CHAPTER 1: INTRODUCTION
 
 The biggest boon and ban of today’s world is social media and, in this world, many people find themselves getting distracted by it and not as focused as they should be on today’s work. While working in any corporate office or environment an average employee waste nearly 2 – 3 hours scrolling social media platforms and doing not productive. The reason for this is not a lack of dedication but rather a lack of proper monitoring of those emotions. We are not aware of our emotions during our work as a result we are unaware of the fact that how inefficient we have started to be. So, we are building a web app where you can track your emotions through your camera while doing your work and it generates a report which shows how your emotions were throughout the session. Our web app also calculates your overall efficiency score which is derived from your emotions throughout. A report is generated of the same and is made downloadable for the users.
